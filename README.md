@@ -2,3 +2,6 @@
 Smart app - info page
 Andrey Gorokhov
 mail: andrey.devacc@gmail.com
+CarwWord app - info page
+Andrey Gorokhov
+mail: andrey.devacc@gmail.com
